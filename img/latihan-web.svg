@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+<title id="title">Formulir Pendaftaran</title><desc id="desc">Ilustrasi portofolio bergaya gothic dengan panel gelap, aksen merah marun, dan garis perak.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241a27"/><stop offset=".55" stop-color="#151119"/><stop offset="1" stop-color="#09080b"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eee5ed"/><stop offset="1" stop-color="#8d7d8d"/></linearGradient>
+ <linearGradient id="wine" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a63a58"/><stop offset="1" stop-color="#50182a"/></linearGradient>
+ <pattern id="grain" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r="1" fill="#c9c1cb" opacity=".08"/><circle cx="19" cy="21" r=".8" fill="#b94b62" opacity=".12"/></pattern>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="800" height="520" fill="url(#bg)"/><rect width="800" height="520" fill="url(#grain)"/>
+<path d="M30 90H770M30 470H770" stroke="#8f263f" stroke-opacity=".45"/>
+<path d="M44 42h18m-9-9v18M738 42h18m-9-9v18M44 478h18m-9-9v18M738 478h18m-9-9v18" stroke="#c9c1cb" stroke-opacity=".6" fill="none"/>
+<rect x="28" y="24" width="744" height="472" rx="18" fill="#100d13" fill-opacity=".88" stroke="#8d7487" stroke-opacity=".65" filter="url(#shadow)"/>
+<rect x="29" y="25" width="742" height="470" rx="17" fill="none" stroke="#b94b62" stroke-opacity=".35"/>
+<path d="M29 88H771" stroke="#574351"/>
+<circle cx="54" cy="56" r="5" fill="#b94b62"/><circle cx="72" cy="56" r="5" fill="#b9aeb9"/><circle cx="90" cy="56" r="5" fill="#6b5c6a"/>
+<text x="118" y="62" fill="#c9c1cb" font-size="12" font-family="Arial,sans-serif" letter-spacing="3">RIDHO / SELECTED WORK</text>
+<text x="744" y="62" fill="#b94b62" text-anchor="end" font-size="11" font-family="Arial,sans-serif" letter-spacing="2">01 — 06</text>
+<text x="58" y="121" fill="#eee8ed" font-family="Georgia,serif" font-size="25">Formulir Pendaftaran</text>
+
+<rect x="58" y="145" width="684" height="282" rx="9" fill="#18131c" stroke="#574351"/>
+<rect x="82" y="167" width="285" height="236" rx="7" fill="#211a25" stroke="#614253"/>
+<text x="108" y="201" fill="#eee8ed" font-family="Georgia" font-size="20">Registration</text><text x="108" y="222" fill="#9d8d9d" font-family="Arial" font-size="11">Please complete your details</text>
+<g font-family="Arial" font-size="11" fill="#c9c1cb"><text x="108" y="254">FULL NAME</text><text x="108" y="312">EMAIL ADDRESS</text><text x="108" y="370">PROGRAM</text></g>
+<g fill="#100d13" stroke="#795264"><rect x="108" y="263" width="235" height="30" rx="4"/><rect x="108" y="321" width="235" height="30" rx="4"/><rect x="108" y="379" width="235" height="0" rx="4"/></g>
+<text x="123" y="283" fill="#8e808c" font-family="Arial" font-size="11">Your name</text><text x="123" y="341" fill="#8e808c" font-family="Arial" font-size="11">name@example.com</text>
+<rect x="401" y="168" width="315" height="235" rx="7" fill="#151119" stroke="#574351"/>
+<text x="430" y="204" fill="#b94b62" font-family="Arial" font-size="11" letter-spacing="2">FORM PREVIEW</text>
+<path d="M431 234h255M431 286h255M431 338h255" stroke="#574351"/>
+<g fill="#b9aeb9" font-family="Arial" font-size="12"><text x="431" y="257">Label terhubung dengan input</text><text x="431" y="309">Validasi HTML bawaan browser</text><text x="431" y="361">Tampilan rapi dan mudah dibaca</text></g>
+<circle cx="690" cy="250" r="8" fill="#8f263f"/><path d="m686 250 3 3 5-7" stroke="#fff" fill="none" stroke-width="1.5"/>
+<circle cx="690" cy="302" r="8" fill="#8f263f"/><path d="m686 302 3 3 5-7" stroke="#fff" fill="none" stroke-width="1.5"/>
+<circle cx="690" cy="354" r="8" fill="#8f263f"/><path d="m686 354 3 3 5-7" stroke="#fff" fill="none" stroke-width="1.5"/>
+
+<text x="58" y="475" fill="#9d8d9d" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">HTML / FORM VALIDATION PRACTICE</text>
+</svg>
