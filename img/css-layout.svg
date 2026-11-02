@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+<title id="title">Tabel Data Mahasiswa</title><desc id="desc">Ilustrasi portofolio bergaya gothic dengan panel gelap, aksen merah marun, dan garis perak.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241a27"/><stop offset=".55" stop-color="#151119"/><stop offset="1" stop-color="#09080b"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eee5ed"/><stop offset="1" stop-color="#8d7d8d"/></linearGradient>
+ <linearGradient id="wine" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a63a58"/><stop offset="1" stop-color="#50182a"/></linearGradient>
+ <pattern id="grain" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r="1" fill="#c9c1cb" opacity=".08"/><circle cx="19" cy="21" r=".8" fill="#b94b62" opacity=".12"/></pattern>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="800" height="520" fill="url(#bg)"/><rect width="800" height="520" fill="url(#grain)"/>
+<path d="M30 90H770M30 470H770" stroke="#8f263f" stroke-opacity=".45"/>
+<path d="M44 42h18m-9-9v18M738 42h18m-9-9v18M44 478h18m-9-9v18M738 478h18m-9-9v18" stroke="#c9c1cb" stroke-opacity=".6" fill="none"/>
+<rect x="28" y="24" width="744" height="472" rx="18" fill="#100d13" fill-opacity=".88" stroke="#8d7487" stroke-opacity=".65" filter="url(#shadow)"/>
+<rect x="29" y="25" width="742" height="470" rx="17" fill="none" stroke="#b94b62" stroke-opacity=".35"/>
+<path d="M29 88H771" stroke="#574351"/>
+<circle cx="54" cy="56" r="5" fill="#b94b62"/><circle cx="72" cy="56" r="5" fill="#b9aeb9"/><circle cx="90" cy="56" r="5" fill="#6b5c6a"/>
+<text x="118" y="62" fill="#c9c1cb" font-size="12" font-family="Arial,sans-serif" letter-spacing="3">RIDHO / SELECTED WORK</text>
+<text x="744" y="62" fill="#b94b62" text-anchor="end" font-size="11" font-family="Arial,sans-serif" letter-spacing="2">01 — 06</text>
+<text x="58" y="121" fill="#eee8ed" font-family="Georgia,serif" font-size="25">Tabel Data Mahasiswa</text>
+
+<rect x="58" y="145" width="684" height="282" rx="9" fill="#18131c" stroke="#574351"/>
+<text x="84" y="184" fill="#b94b62" font-family="Arial" font-size="11" letter-spacing="2">STUDENT DATA / TABLE</text>
+<rect x="83" y="204" width="634" height="42" rx="4" fill="#3a202e" stroke="#795264"/>
+<g fill="#eee8ed" font-family="Arial" font-size="12" font-weight="bold"><text x="105" y="230">NO.</text><text x="181" y="230">NAMA</text><text x="402" y="230">PROGRAM</text><text x="606" y="230">STATUS</text></g>
+<g stroke="#574351" fill="#201923"><rect x="83" y="250" width="634" height="43"/><rect x="83" y="295" width="634" height="43"/><rect x="83" y="340" width="634" height="43"/></g>
+<g fill="#c9c1cb" font-family="Arial" font-size="12"><text x="105" y="277">01</text><text x="181" y="277">Ridho Albukhori</text><text x="402" y="277">Sistem Informasi</text><text x="606" y="277">Aktif</text><text x="105" y="322">02</text><text x="181" y="322">Mahasiswa 02</text><text x="402" y="322">Informatika</text><text x="606" y="322">Aktif</text><text x="105" y="367">03</text><text x="181" y="367">Mahasiswa 03</text><text x="402" y="367">Sistem Informasi</text><text x="606" y="367">Aktif</text></g>
+<path d="M157 204v179M380 204v179M584 204v179" stroke="#574351"/>
+<text x="83" y="408" fill="#9d8d9d" font-family="Arial" font-size="10">3 RECORDS / SAMPLE LAYOUT</text>
+
+<text x="58" y="475" fill="#9d8d9d" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">HTML / SEMANTIC TABLE</text>
+</svg>
