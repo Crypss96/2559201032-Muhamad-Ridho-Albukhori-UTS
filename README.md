@@ -55,7 +55,7 @@ Website portofolio pribadi untuk proyek UTS Pemrograman Web Dasar. Proyek dibuat
 4. Peta pada halaman Kontak memerlukan koneksi internet.
 
 ## Penyesuaian foto profil
-Beranda saat ini menggunakan placeholder inisial RA. Untuk memakai foto sendiri, simpan foto di folder `img/`, lalu ganti elemen `.profile-placeholder` di `index.html` dengan elemen gambar yang memiliki atribut alt deskriptif. Atur gambar menggunakan `width: 100%`, `height: 280px`, dan `object-fit: cover`.
+Beranda menggunakan foto profil pribadi yang tersimpan secara lokal di `img/foto-ridho.jpg`. Foto ditampilkan dengan `object-fit: cover` agar proporsinya menyesuaikan kartu profil.
 
 ## Pemeriksaan sebelum pengumpulan
 - [x] Empat halaman dan tautan lokal sudah diperiksa keberadaannya.
